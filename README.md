@@ -19,3 +19,9 @@ To setup CDK provisioned resources in your account, CDK Bootstrap is required.
 $ cdk bootstrap --profile cdk-target-profile
 
 $ cdk deploy --profile cdk-target-profile
+
+*************************************** source at : 
+/Users/fjabbari/REPO_CDK_AND_CDK8s_FREDv3/aws-cdk-python-example/cdk-eks-redis-bastion
+(.venv) ╭─fjabbari@Freds-MacBook-Pro ~/REPO_CDK_AND_CDK8s_FREDv3/aws-cdk-python-example/cdk-eks-redis-bastion ‹main●› 
+╰─$ 
+***************************************
